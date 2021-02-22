@@ -1,7 +1,3 @@
-nitzan_karby
-raz.perry
-
-
 =============================
 =      File description     =
 =============================
